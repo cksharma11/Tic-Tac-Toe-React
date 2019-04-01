@@ -1,5 +1,5 @@
 import React from "react";
-import calculateWinner from "./winning";
+import calculateWinner from "./calculateWinner";
 import Square from "./square";
 
 class Board extends React.Component {
